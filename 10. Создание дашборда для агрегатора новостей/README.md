@@ -3,7 +3,6 @@
 **Задача** - проанализировать взаимодействия пользователей с карточками агрегатора новостей и создать дашборд в Tableau Pulic. В качестве данных предоставлены логи пользователей.
 Массив данных получен с помощью SQL-запроса к удаленной базе данных.
 
-[Дашборд](https://public.tableau.com/profile/ekaterina3091#!/vizhome/Dashboard_Ya_Zen/Dashboard1?publish=yes)
 [Дашборд](https://public.tableau.com/app/profile/ekaterina3091/viz/Dashboard_Ya_Zen/Dashboard1)
 
 ## Используемые инструменты
