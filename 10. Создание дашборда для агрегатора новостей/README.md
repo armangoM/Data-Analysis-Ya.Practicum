@@ -4,6 +4,7 @@
 Массив данных получен с помощью SQL-запроса к удаленной базе данных.
 
 [Дашборд](https://public.tableau.com/profile/ekaterina3091#!/vizhome/Dashboard_Ya_Zen/Dashboard1?publish=yes)
+[Дашборд](https://public.tableau.com/app/profile/ekaterina3091/viz/Dashboard_Ya_Zen/Dashboard1)
 
 ## Используемые инструменты
 *pandas, SQLalchemy, Tableau*
