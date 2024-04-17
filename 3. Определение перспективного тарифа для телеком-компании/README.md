@@ -20,4 +20,4 @@
     + о равенстве средней выручки пользователей из Москвы и регионов.
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, scipy*
+*pandas, matplotlib, numpy, scipy* 
