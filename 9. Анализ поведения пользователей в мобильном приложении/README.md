@@ -11,4 +11,4 @@
 - предоставление рекомндаций.  
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, scipy, seaborn, plotly, math*
+*pandas, matplotlib, numpy, scipy, seaborn, plotly, math*  
