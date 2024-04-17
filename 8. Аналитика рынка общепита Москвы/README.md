@@ -12,4 +12,4 @@
 - подготовка рекомндаций.  
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn*
+*pandas, matplotlib, numpy, seaborn* 
